@@ -24,7 +24,6 @@ class _TodaysWeatherState extends State<TodaysWeather> {
   }
 
   Future<void> getLocationData() async {
-
     Location location = Location();
     await location.getPositionData();
     Network network = Network(
