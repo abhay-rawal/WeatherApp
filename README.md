@@ -7,8 +7,7 @@ Flutter Weather application.
 * httpDart : https://pub.dev/packages/http
 
 ## screenShots :
-
-<img src="https://github.com/abhay-rawal/WeatherApp/blob/master/images/Screenshot/Screenshot.png" data-canonical-src="https://github.com/abhay-rawal/WeatherApp/blob/master/images/Screenshot/Screenshot.png" width="350" height="600" />
+<img src="https://github.com/abhay-rawal/WeatherApp/blob/master/images/DemoGif/ezgif.com-gif-maker%20(1).gif" width="300" height="600" />
 
 
 
