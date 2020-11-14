@@ -8,7 +8,7 @@ Flutter Weather application.
 
 ## screenShots :
 
-<img src="https://github.com/abhay-rawal/WeatherApp/blob/master/images/Screenshot/Screenshot.png" data-canonical-src="https://github.com/abhay-rawal/WeatherApp/blob/master/images/Screenshot/Screenshot.png" width="350" height="500" />
+<img src="https://github.com/abhay-rawal/WeatherApp/blob/master/images/Screenshot/Screenshot.png" data-canonical-src="https://github.com/abhay-rawal/WeatherApp/blob/master/images/Screenshot/Screenshot.png" width="350" height="600" />
 
 
 
