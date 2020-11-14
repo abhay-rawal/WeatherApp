@@ -6,11 +6,7 @@ class Network {
   String url;
   Network({@required this.url});
   Future getWeatherData() async {
-    try {
-      var response = await http.get(this.url);
-      return convert.jsonDecode(response.body);
-    } catch (e) {
-      print(e);
-    }
+    var response = await http.get(this.url);
+    return convert.jsonDecode(response.body);
   }
 }
